@@ -1,0 +1,69 @@
+10:02:00.705 [main] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Debug...
+10:02:00.715 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Info...
+10:02:00.715 [main] WARN  com.fdmgroup.elevator_project.ElevatorApp - Warn...
+10:02:00.715 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - Error...
+10:02:00.716 [main] FATAL com.fdmgroup.elevator_project.ElevatorApp - Fatal...
+10:31:22.846 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+10:32:29.205 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+10:32:30.211 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+10:32:31.229 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+10:32:32.232 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+10:32:33.246 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 5
+10:42:55.025 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+10:42:59.171 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+10:43:00.181 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+10:43:01.185 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+10:43:02.194 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+10:43:03.209 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 5
+10:44:56.224 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Welcome to Briand's elevator
+10:44:56.706 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+10:45:02.349 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+10:45:02.350 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+10:45:03.353 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+10:45:04.366 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+10:45:05.374 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+10:45:06.383 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 5
+10:57:29.000 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Welcome to Briand's elevator
+10:57:29.565 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+10:57:50.084 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+10:57:50.085 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+10:57:51.089 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+10:57:52.104 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+10:57:53.109 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+10:57:54.114 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 5
+10:57:55.125 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 6
+10:57:56.134 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 7
+10:57:57.148 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 8
+10:57:58.155 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 9
+10:57:59.169 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 10
+10:58:10.449 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+10:58:10.450 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 10
+10:58:10.449 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 1
+10:58:11.459 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 2
+10:58:11.459 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 9
+10:58:12.470 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 3
+10:58:12.470 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 8
+10:58:13.483 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 7
+10:58:13.486 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 4
+10:58:14.494 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 6
+10:58:14.494 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 5
+10:58:15.495 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 5
+10:58:15.510 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 6
+10:58:16.504 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 4
+10:58:16.519 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 7
+10:58:17.516 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 3
+10:58:17.532 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 8
+10:58:18.531 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Descend | Floor: 2
+10:58:18.547 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 9
+10:58:19.544 [Thread-4] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 1
+10:58:19.558 [Thread-3] DEBUG com.fdmgroup.elevator_project.ElevatorApp - Elevator:3 | Status: Stationary | Floor: 10
+11:15:21.837 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Testing...
+11:15:22.118 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+11:27:23.551 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Testing...
+11:27:24.083 [main] INFO  com.fdmgroup.elevator_project.ElevatorApp - Enter your source and destination in the respective format: src:dest
+11:27:46.228 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+11:27:46.280 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+11:27:46.356 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+11:27:46.369 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+11:27:46.378 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.
+11:27:46.387 [main] ERROR com.fdmgroup.elevator_project.ElevatorApp - An invalid input has been detected. Please try again.

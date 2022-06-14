@@ -1,0 +1,207 @@
+12:07:35.369 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Testing...
+12:07:35.625 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+12:07:43.219 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+12:07:43.219 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+12:07:44.234 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+12:07:45.250 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+12:07:46.268 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+12:07:47.281 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 5
+12:07:48.293 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 6
+12:07:49.303 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 7
+12:07:50.304 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 8
+12:07:51.306 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 9
+12:07:52.318 [Thread-4] DEBUG com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 10
+13:34:15.934 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+13:34:15.969 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+13:34:15.986 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+13:34:15.998 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+13:34:16.016 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+13:34:16.082 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:04:49.739 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:04:49.767 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:04:49.782 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:04:49.832 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:04:49.841 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:04:49.920 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:05:25.069 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:05:25.088 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:05:25.114 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:05:25.126 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:05:25.138 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:05:25.196 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - An invalid input has been detected. Please try again.
+14:19:56.901 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:19:56.926 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:20:06.682 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - Middle Delimiter is invalid.
+14:20:06.682 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:22:07.339 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:22:07.386 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:22:12.377 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "t"
+14:22:12.377 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - Start floor is out of bounds.
+14:22:12.377 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:24:42.655 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:24:42.673 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:24:45.094 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:24:45.095 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+14:24:45.210 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+14:24:45.318 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+14:24:45.426 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+14:24:45.534 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 5
+14:24:52.404 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "t"
+14:24:52.404 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - Start floor is invalid.
+14:24:52.405 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:25:00.751 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "t"
+14:25:00.751 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - End floor is invalid.
+14:25:00.752 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:25:07.059 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - Middle Delimiter is invalid.
+14:25:07.059 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:25:13.019 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "t-"
+14:25:13.019 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - End floor is invalid.
+14:25:13.020 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:25:28.102 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "2-1"
+14:25:28.103 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - End floor is invalid.
+14:25:28.103 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:39:25.500 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:39:25.521 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:39:29.456 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:39:29.458 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+14:39:29.566 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+14:39:29.676 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+14:39:29.786 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+14:39:29.898 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 5
+14:39:42.392 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "4+5"
+14:39:42.392 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - End floor is invalid.
+14:39:42.392 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:43:30.300 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:43:30.321 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:44:51.334 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:44:51.357 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:47:26.523 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:47:26.551 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:47:57.565 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:47:57.585 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:48:01.637 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:48:01.639 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+14:48:01.746 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+14:48:01.856 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+14:48:01.967 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+14:48:02.076 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 5
+14:48:02.181 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 6
+14:48:02.291 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 4
+14:48:02.399 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 3
+14:48:02.509 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 2
+14:53:13.757 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:53:13.778 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:53:17.870 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+14:53:17.972 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+14:53:18.078 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+14:53:18.181 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 4
+14:53:18.283 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:53:18.283 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 1
+14:53:18.393 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 2
+14:53:18.504 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 3
+14:53:18.615 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 4
+14:53:18.723 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 5
+14:53:18.832 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 6
+14:53:18.941 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Stationary | Floor: 7
+14:54:49.604 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:54:49.633 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:54:52.135 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "1:10"
+14:54:52.135 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - Start floor is invalid.
+14:54:52.135 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:59:15.076 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+14:59:15.100 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+14:59:19.995 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:01:13.568 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:01:13.589 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:01:21.111 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+15:01:21.213 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+15:01:21.316 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+15:01:21.417 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+15:01:21.518 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 5
+15:01:21.618 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:01:21.618 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 1
+15:01:21.721 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 2
+15:01:21.830 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 3
+15:01:21.942 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 4
+15:01:22.051 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Stationary | Floor: 5
+15:03:28.223 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:03:28.241 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:03:31.000 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - Start floor is invalid.
+15:03:31.001 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:11:20.665 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:11:20.688 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:11:22.899 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:11:22.899 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+15:11:23.010 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+15:11:23.122 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+15:11:23.227 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+15:11:23.336 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 5
+15:11:23.446 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 6
+15:11:23.557 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 7
+15:11:23.664 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 8
+15:11:23.776 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 9
+15:11:23.884 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 10
+15:11:30.886 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:11:30.887 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 1
+15:11:31.001 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 2
+15:11:31.108 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 3
+15:11:31.216 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 4
+15:11:31.322 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 5
+15:11:31.433 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 6
+15:11:31.540 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 7
+15:11:31.650 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 8
+15:11:31.754 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Ascend | Floor: 9
+15:11:31.862 [Thread-3] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:3 | Status: Stationary | Floor: 10
+15:12:05.977 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:12:05.978 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 10
+15:12:05.978 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 1
+15:12:06.080 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 9
+15:12:06.080 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 2
+15:12:06.193 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 3
+15:12:06.194 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 8
+15:12:06.296 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 4
+15:12:06.312 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 7
+15:12:06.402 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 5
+15:12:06.417 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 6
+15:12:06.510 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 6
+15:12:06.528 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 5
+15:12:06.619 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 7
+15:12:06.635 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 4
+15:12:06.728 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 8
+15:12:06.743 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Descend | Floor: 3
+15:12:06.834 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Ascend | Floor: 9
+15:12:06.849 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 2
+15:12:06.948 [Thread-2] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:2 | Status: Stationary | Floor: 10
+15:12:47.963 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:12:48.000 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:12:54.747 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - For input string: "5-2"
+15:12:54.747 [main] ERROR com.fdmgroup.elevator_project.client.ElevatorApp - End floor is invalid.
+15:12:54.747 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:18:25.082 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:18:25.094 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:18:52.020 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:18:52.031 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:18:54.210 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:18:54.210 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+15:18:54.319 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+15:18:54.427 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+15:18:54.548 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+15:18:54.657 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 5
+15:18:54.763 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 6
+15:18:54.882 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 7
+15:18:54.983 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 8
+15:18:55.096 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 9
+15:18:55.213 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 10
+15:23:01.380 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Welcome to Gibson's elevator
+15:23:01.765 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:23:05.436 [main] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Enter your source and destination in the respective format: src:dest
+15:23:05.436 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 1
+15:23:05.541 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 2
+15:23:05.650 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 3
+15:23:05.758 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 4
+15:23:05.870 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 5
+15:23:05.974 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 6
+15:23:06.083 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 7
+15:23:06.190 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 8
+15:23:06.301 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Ascend | Floor: 9
+15:23:06.408 [Thread-4] INFO  com.fdmgroup.elevator_project.client.ElevatorApp - Elevator:4 | Status: Stationary | Floor: 10
